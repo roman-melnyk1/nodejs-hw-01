@@ -1,1 +1,44 @@
-[]
+[
+  {
+    "id": "56c309bd-e5cf-47a9-800b-a8e7a2202b46",
+    "name": "Amelia Champlin",
+    "phone": "823.827.7194",
+    "email": "Taurean_Goldner@gmail.com",
+    "job": "Dynamic Implementation Representative"
+  },
+  {
+    "id": "04f1a11f-2c2d-4a49-948d-8c8f3fb3afc2",
+    "name": "Marion Jones",
+    "phone": "560-269-8745 x7515",
+    "email": "Newell.Stamm@gmail.com",
+    "job": "Internal Implementation Associate"
+  },
+  {
+    "id": "039aa71b-7e71-451f-8817-ffc496b5d0c3",
+    "name": "Ms. Henrietta Langosh V",
+    "phone": "1-670-465-7468",
+    "email": "Earl.Kunze8@hotmail.com",
+    "job": "Lead Accounts Producer"
+  },
+  {
+    "id": "590920d7-0e7b-48e0-9c58-7caea44087a4",
+    "name": "Natasha O'Reilly",
+    "phone": "1-528-839-4071 x81823",
+    "email": "Clair_Pfannerstill41@gmail.com",
+    "job": "Corporate Branding Administrator"
+  },
+  {
+    "id": "e5479f3e-5cdb-4a55-89cd-0140d2827283",
+    "name": "Levi Schamberger DDS",
+    "phone": "1-336-567-3540",
+    "email": "Elliot.Lesch84@hotmail.com",
+    "job": "Global Paradigm Planner"
+  },
+  {
+    "id": "69d47142-99ba-41b5-98f4-8c64a8372d92",
+    "name": "Victor Trantow",
+    "phone": "838-869-9848",
+    "email": "Monte.Predovic@yahoo.com",
+    "job": "Corporate Accounts Manager"
+  }
+]
